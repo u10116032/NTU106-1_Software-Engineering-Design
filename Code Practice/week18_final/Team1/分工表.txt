@@ -1,0 +1,12 @@
+Assignment - 王本奕, 蔡佳昱
+Criteria - 林凡煒
+Instructor - 張育瑄
+Main - 王瀚磊
+MeanRankingStrategy - 張育瑄
+MedianRankingStrategy - 張育瑄
+MyIterator - 張嘉豪, 方珮雯
+RankingStrategy - 張育瑄
+Review - 王本奕, 蔡佳昱
+Rubric - 張嘉豪, 方珮雯
+RubricBuilder - 林凡煒
+Student - 王本奕, 蔡佳昱

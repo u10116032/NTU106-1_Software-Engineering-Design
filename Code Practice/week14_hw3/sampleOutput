@@ -1,0 +1,16 @@
+PancakeHouseMenu:
+MenuItem:A
+MenuItem:B
+MenuItem:C
+DinerMenu:
+MenuItem:Chicken
+MenuItem:Beef
+MenuItem:Pork
+SubMenu:
+MenuItem:Drink
+MenuItem:Cake
+MenuItem:Cookie
+SubMenu:
+MenuItem:DrinkA
+MenuItem:CakeA
+MenuItem:CookieA

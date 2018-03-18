@@ -1,0 +1,33 @@
+component 0 size changed to 10
+component 1 failed to change size
+component 3 size changed to 10
+component 6 size changed to 10
+[10]Hi
+[1]<ParagraphEnd>
+[12]nice
+[10]to
+[12]meet
+[12]you
+[10]scared.jpg
+[1]<ParagraphEnd>
+component 4 failed to change size
+component 7 failed to change size
+component 6 size changed to 99
+[10]Hi [1]<ParagraphEnd>
+[12]nice [10]to [12]meet [12]you [99]scared.jpg [1]<ParagraphEnd>
+component 5 size changed to 40
+component 2 failed to change size
+[10]Hi [1]<ParagraphEnd> [12]nice
+[10]to [12]meet [40]you
+[99]scared.jpg [1]<ParagraphEnd>
+component 6 size changed to 50
+[10]Hi
+[1]<ParagraphEnd>
+[12]nice
+[10]to
+[12]meet
+[40]you
+[50]scared.jpg
+[1]<ParagraphEnd>
+[10]Hi [1]<ParagraphEnd>
+[12]nice [10]to [12]meet [40]you [50]scared.jpg [1]<ParagraphEnd>

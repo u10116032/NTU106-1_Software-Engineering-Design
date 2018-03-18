@@ -1,0 +1,11 @@
+diner 0 Menu
+diner 1 Seafood
+item 2 Rolls 1000 0 100
+item 2 Royce 1000 0 100
+diner 1 Mark
+item 2 MarkLiu 500 500 800
+item 2 MarkLiuLiu 1000 600 1200
+item 2 MarkLiuLiuLiu 2000 700 1600
+printCalories
+printProtein
+printCarbs
